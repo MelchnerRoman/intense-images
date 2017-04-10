@@ -63,6 +63,12 @@ body.gallery-switch figure.figure-intense {
     /*cursor: -webkit-image-set(url('img/close_cursor.png') 2x), auto;*/
 }
 
+.intense {
+    cursor: url("img/plus_cursor.png") 25 25, pointer;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
 .caption-intense {
     font-family: 'Georgia, Times, "Times New Roman", serif';
     position: fixed;
